@@ -65,23 +65,32 @@ Designed with clean UI/UX principles, smooth Framer Motion animations, and a min
 ## 📂 Folder Structure (Example)
 
 src/
+src/
 ├── components/
-│ ├── HeroSection.tsx
-│ ├── ProjectsSection.tsx
-│ ├── ContactSection.tsx
-│ └── Navbar.tsx
+│   ├── HeroSection.tsx
+│   ├── ProjectsSection.tsx
+│   ├── ContactSection.tsx
+│   ├── AboutSection.tsx
+│   └── Navbar.tsx
 │
 ├── assets/
-│ └── logo.png
+│   ├── logo.png
+│   └── favicon.ico
 │
 ├── hooks/
-│ └── use-toast.ts
+│   └── use-toast.ts
 │
 ├── styles/
-│ └── globals.css
+│   ├── globals.css
+│   └── animations.css
 │
-└── App.tsx
-
+├── lib/
+│   └── utils.ts
+│
+├── pages/ or app/
+│   └── App.tsx
+│
+└── main.tsx / index.tsx
 
 ---
 
