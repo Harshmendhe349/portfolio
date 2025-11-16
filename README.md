@@ -1,73 +1,109 @@
-# Welcome to your Lovable project
+# 🚀 Harsh Mendhe – Personal Portfolio Website
 
-## Project info
+A modern, animated, and fully responsive personal portfolio built to showcase my skills, experience, and featured projects.  
+Designed with clean UI/UX principles, smooth Framer Motion animations, and a minimal aesthetic.
 
-**URL**: https://lovable.dev/projects/f85134e2-f498-4656-83bc-9852204be130
+---
 
-## How can I edit this code?
+## 🎨 Live Demo  
+👉 **https://your-portfolio-link.com**  
+(Replace with your deployed link)
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## 📌 Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/f85134e2-f498-4656-83bc-9852204be130) and start prompting.
+### 🧑‍💻 Developer Profile
+- Clean hero section with introduction
+- Social profile links (GitHub, LinkedIn)
+- Professional branding with custom favicon and logo
 
-Changes made via Lovable will be committed automatically to this repo.
+### 💼 Featured Projects
+- Filterable project categories (Full Stack, AI, ML)
+- Glassmorphism cards with hover effects
+- GitHub + Live Demo buttons for each project
+- Framer Motion animations for smooth entry transitions
 
-**Use your preferred IDE**
+### 📱 Fully Responsive UI
+- Mobile-first design
+- Adaptive layouts for tablets and desktops
+- TailwindCSS modern styling
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+### ✉️ Contact Form
+- Formspree integration for receiving emails
+- Animated toast notifications
+- Well-structured contact information with icons
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🌙 Theme & Visuals
+- Gradient accents
+- Minimal color palette
+- Soft shadows and glow effects
+- Smooth micro-interactions
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+## 🛠️ Tech Stack
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+### **Frontend**
+- **React.js**
+- **TypeScript** (if included)
+- **TailwindCSS**
+- **Framer Motion**
+- **ShadCN UI Components**
+- **Lucide Icons**
 
-# Step 3: Install the necessary dependencies.
-npm i
+### **Form Handling**
+- **Formspree** (Contact Form)
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+### **Tools & Build**
+- Vite / Next.js (whichever you're using)
+- Node.js
+- Git & GitHub
 
-**Edit a file directly in GitHub**
+---
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## 📂 Folder Structure (Example)
 
-**Use GitHub Codespaces**
+src/
+├── components/
+│ ├── HeroSection.tsx
+│ ├── ProjectsSection.tsx
+│ ├── ContactSection.tsx
+│ └── Navbar.tsx
+│
+├── assets/
+│ └── logo.png
+│
+├── hooks/
+│ └── use-toast.ts
+│
+├── styles/
+│ └── globals.css
+│
+└── App.tsx
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
 
-## What technologies are used for this project?
+---
 
-This project is built with:
+## 📧 Contact
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+If you'd like to collaborate or discuss opportunities:
 
-## How can I deploy this project?
+**📍 Location:** Indore, Madhya Pradesh  
+**📩 Email:** harshmendhe349@gmail.com  
+**🔗 Portfolio:** https://your-portfolio-link.com  
+**🐙 GitHub:** https://github.com/harshmendhe  
+**💼 LinkedIn:** https://linkedin.com/in/harshmendhe  
 
-Simply open [Lovable](https://lovable.dev/projects/f85134e2-f498-4656-83bc-9852204be130) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## 🤝 Contributions
 
-Yes, you can!
+This is a personal website, but ideas, UI suggestions, and PRs for improvements are welcome!
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## ⭐ Show Support
+
+If you like this project, please give it a ⭐ on GitHub — it helps a lot!
+
