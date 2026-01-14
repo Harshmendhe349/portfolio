@@ -107,7 +107,7 @@ export const DownloadResumeSection = () => {
               transition={{ delay: 1 }}
               className="text-sm text-muted-foreground"
             >
-              PDF Format • Updated November 2025
+              PDF Format • Updated January 2026
             </motion.p>
           </div>
         </motion.div>
